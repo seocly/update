@@ -1,8 +1,11 @@
 {
   "status": "ok",
-  "expire_date": "2025-07-31T23:59:59Z",
-  "new_link": "https://discord.gg/QSkbQZM6fj"
+  "expire_date": "2025-09-05T23:59:59Z",
+  "build_id": "v2.5.7",
+  "new_link": "https://discord.gg/QSkbQZM6fj",
+  "hash": "5CBA9F8A2F2E4E5C43F5E6F8D6A3C29B2D3A0F8F13F9C99F61A7D51A2C83E712"
 }
+
 
 
 
